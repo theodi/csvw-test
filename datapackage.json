@@ -1,0 +1,1 @@
+{"name":"csvw-test","title":"csvw test","description":"csvw test","licenses":[{"url":"https://creativecommons.org/licenses/by/4.0/","title":"Creative Commons Attribution 4.0"}],"publishers":[{"name":"The ODI","web":"http://www.example.com"}],"resources":[{"name":"csvw test","mediatype":"text/csv","description":"csvw test","path":"data/csvw-test.csv"}]}
